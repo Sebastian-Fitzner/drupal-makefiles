@@ -1,0 +1,66 @@
+name = highly customized sites with content features
+description = Install with commonly used features pre-configured.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+dependencies[] = admin_menu
+dependencies[] = backup_migrate
+dependencies[] = ds
+dependencies[] = imce
+dependencies[] = imagecache_actions
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = contextual
+dependencies[] = menu_block
+dependencies[] = module_filter
+dependencies[] = pathauto
+dependencies[] = page_manager
+dependencies[] = panels
+dependencies[] = panelizer
+dependencies[] = devel
+dependencies[] = devel_generate
+dependencies[] = diff
+dependencies[] = features
+dependencies[] = filefield_paths
+dependencies[] = field_group
+dependencies[] = webform
+dependencies[] = globalredirect
+dependencies[] = jquery_update
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = linkit
+dependencies[] = libraries
+dependencies[] = editablefields
+dependencies[] = ckeditor
+dependencies[] = strongarm
+dependencies[] = references
+dependencies[] = imagecache_actions
+dependencies[] = page_title
+dependencies[] = pathauto
+
+
+
+
+
+
+
+
